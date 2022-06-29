@@ -1,3 +1,10 @@
 body{
-    background-color: rgba(202, 8, 8, 0.803)
-    color:black
+    background-color: rgba(202, 8, 8, 0.803);
+    color:black;
+
+}
+
+h1{
+    font-size: 5em;
+    color: darkred;
+}
